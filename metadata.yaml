@@ -1,10 +1,16 @@
 _repo: Things-to-Know-About-Trade-Marks-A-Manual-of-Trade-Mark-Information_49016
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49016-h/images/cover.jpg
 creator:
   author:
     agent_name: J. Walter Thompson Company
     gutenberg_agent_id: '45094'
     url: http://www.gutenberg.org/2009/agents/45094
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49016#Things-to-Know-About-Trade-Marks-A-Manual-of-Trade-Mark-Information
 gutenberg_issued: '2015-05-21'
 gutenberg_type: Text
 identifiers:
